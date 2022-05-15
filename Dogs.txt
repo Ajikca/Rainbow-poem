@@ -1,8 +1,8 @@
-Dogs.
+Dogs and Puppies.
 
 Pugs
 Labs
 German Shepard
 Collies
 
-These are all good dogs.
+These are all good dogs and puppies.
